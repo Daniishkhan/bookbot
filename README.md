@@ -1,2 +1,3 @@
 # bookbot
-This is a mock project for boot.dev
+
+BookBot is my first boot.dev project!
